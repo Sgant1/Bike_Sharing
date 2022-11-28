@@ -12,45 +12,51 @@ This project analyzes New York City's Citi Bike data for the month of August 201
 
 1. Bike Checkout Times for All Users Filtered by the Hour
 
-![checkout_times_all_users.png](https://github.com/ashleycvirga/Bikesharing/blob/75308df9b0db787c0d9608efaea9884ca810d788/Images/checkout_times_all_users.png)
+![checkout_times_all_users](https://user-images.githubusercontent.com/107363048/204180031-7095cb81-0caf-4392-9799-996d7cb25c56.png)
+
 
 The ride durations are shorter during non-peak riding hours. With this interactive graph, finding ride durations for every hour of interest is possible.
 
 2. Bike Checkout Times for Filtered by the Hour and by User Gender
 
-![checkout_times_by_gender.png](https://github.com/ashleycvirga/Bikesharing/blob/75308df9b0db787c0d9608efaea9884ca810d788/Images/checkout_times_by_gender.png)
+![checkout_times_by_gender](https://user-images.githubusercontent.com/107363048/204180049-bfd5c71e-700e-4fe7-95d8-c1eb0ef739f4.png)
+
 
 Male ridership exceeds female ridership in NYC.
 
 3. Heatmap of Trips by Weekday per Hour
 
-![trips_weekday_per_hour.png](https://github.com/ashleycvirga/Bikesharing/blob/75308df9b0db787c0d9608efaea9884ca810d788/Images/trips_weekday_per_hour.png)
+![trips_weekday_per_hour](https://user-images.githubusercontent.com/107363048/204180072-bdd004dd-bbaa-4faa-8f4f-54ba5636a006.png)
+
 
 Peak ridership occurs between 7am and 9am weekday mornings, 5pm to 7pm weekday evenings and between 12pm and 5pm on weekends for all users.
 
 4. Heatmap of Trips by Weekday per Hour Filtered to Compare by Gender
 
-![trips_by_gender_weekday_per_hour.png](https://github.com/ashleycvirga/Bikesharing/blob/75308df9b0db787c0d9608efaea9884ca810d788/Images/trips_by_gender_weekday_per_hour.png)
+![trips_by_gender_weekday_per_hour](https://user-images.githubusercontent.com/107363048/204180134-a2f2ac40-9533-40fd-a940-a8f8ae0b9213.png)
 
-Peak ridership trip times seem to follow a similar pattern across all genders.  Male riders dominate in number of rides.
+
+Peak ridership trip times seem to follow a similar pattern across all genders.
 
 5. Heatmap of Trips by Weekday and By Gender and Usertype
 
-![trips_by_gender_by_weekday_by_usertype.png](https://github.com/ashleycvirga/Bikesharing/blob/75308df9b0db787c0d9608efaea9884ca810d788/Images/trips_by_gender_by_weekday_by_usertype.png)
+![trips_by_gender_by_weekday_by_usertype](https://user-images.githubusercontent.com/107363048/204180187-07e2964f-ddc6-47e3-8569-58017622a1ee.png)
 
-Most rides are taken by subscribers with the male gender riding with the most frequency. Subscribers ride most during the Monday through Friday traditional work week. Citi bikes are a great way to beat commute traffic in NYC!
 
-6. Top Startin Locations for All Riders
+Most rides are taken by subscribers with the male gender riding with the most frequency. Subscribers ride most during the Monday through Friday traditional work week. 
 
-![top_starting_locations.png](https://github.com/ashleycvirga/Bikesharing/blob/75308df9b0db787c0d9608efaea9884ca810d788/Images/top_starting_locations.png)
+6. Top Starting Locations for All Riders
+
+![top_starting_locations](https://user-images.githubusercontent.com/107363048/204180238-3bfc946a-45c7-4763-b594-d11c548042f1.png)
+
 
 Most riders pick up bikes to begin their rides at major transportation hubs as well as waterfront locations. 
 
 7. Customer Breakdown and Customer Breakdown by Gender
+![customers](https://user-images.githubusercontent.com/107363048/204180278-d3e00eda-3fcf-40c9-bf6f-99a6a1e7095b.png)
 
-![customers.png](https://github.com/ashleycvirga/Bikesharing/blob/75308df9b0db787c0d9608efaea9884ca810d788/Images/customers.png)
+![usertype_by_gender](https://user-images.githubusercontent.com/107363048/204180285-5ac6cee6-27a5-4e74-bad7-fcd6a2477c32.png)
 
-![usertype_by_gender.png](https://github.com/ashleycvirga/Bikesharing/blob/75308df9b0db787c0d9608efaea9884ca810d788/Images/usertype_by_gender.png)
 
 The majority of users are subscribers which ensures a regular income stream for Citi bike investors. Male riders dominate users of both types.
 
