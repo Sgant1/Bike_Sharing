@@ -6,7 +6,7 @@ This project analyzes New York City's Citi Bike data for the month of August 201
 
 ## Tableau Story
 
-[NYC Citi Bike Story](https://public.tableau.com/app/profile/ashley.virga/viz/NYCCitiBikeAnalysis_16687592161990/NYCCitiBikeStory?publish=yes)
+
 
 ## Results
 
